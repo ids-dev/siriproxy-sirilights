@@ -1,0 +1,6 @@
+    - name: 'SiriLights'
+      git: 'git://github.com/ids-dev/siriproxy-sirilights.git'
+      homeseer_ip: 'HOMESEER.HOST.IP.ADDRESS'
+      rooms:
+        a1: 'Living room'
+        a2: 'Bedroom'
